@@ -13,6 +13,8 @@
 		91820EC61DFE3E81004366D2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91820EC41DFE3E81004366D2 /* Main.storyboard */; };
 		91820ED11DFE3E81004366D2 /* NSAlertDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91820ED01DFE3E81004366D2 /* NSAlertDemoTests.swift */; };
 		91820EDC1DFE3E81004366D2 /* NSAlertDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91820EDB1DFE3E81004366D2 /* NSAlertDemoUITests.swift */; };
+		91820EEA1DFE3EF2004366D2 /* QQ.png in Resources */ = {isa = PBXBuildFile; fileRef = 91820EE91DFE3EF2004366D2 /* QQ.png */; };
+		91820EEC1DFE3F91004366D2 /* panda.png in Resources */ = {isa = PBXBuildFile; fileRef = 91820EEB1DFE3F91004366D2 /* panda.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +47,8 @@
 		91820ED71DFE3E81004366D2 /* NSAlertDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NSAlertDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91820EDB1DFE3E81004366D2 /* NSAlertDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSAlertDemoUITests.swift; sourceTree = "<group>"; };
 		91820EDD1DFE3E81004366D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91820EE91DFE3EF2004366D2 /* QQ.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QQ.png; sourceTree = "<group>"; };
+		91820EEB1DFE3F91004366D2 /* panda.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = panda.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +101,8 @@
 			children = (
 				91820EBE1DFE3E80004366D2 /* AppDelegate.swift */,
 				91820EC01DFE3E80004366D2 /* ViewController.swift */,
+				91820EEB1DFE3F91004366D2 /* panda.png */,
+				91820EE91DFE3EF2004366D2 /* QQ.png */,
 				91820EC21DFE3E80004366D2 /* Assets.xcassets */,
 				91820EC41DFE3E81004366D2 /* Main.storyboard */,
 				91820EC71DFE3E81004366D2 /* Info.plist */,
@@ -232,7 +238,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91820EEC1DFE3F91004366D2 /* panda.png in Resources */,
 				91820EC31DFE3E80004366D2 /* Assets.xcassets in Resources */,
+				91820EEA1DFE3EF2004366D2 /* QQ.png in Resources */,
 				91820EC61DFE3E81004366D2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
